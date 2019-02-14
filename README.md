@@ -1,6 +1,6 @@
 # Leo
 
-A full body virtual reality simulator
+3D models of a full body virtual reality simulator
 
 |                                       |                                       |                                       |
 |                  :---:                |                   :---:               |                  :---:                |
